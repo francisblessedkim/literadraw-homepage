@@ -1,4 +1,4 @@
-.env*
+# .env*
 !.env.EXAMPLE
 node_modules
 .cache
