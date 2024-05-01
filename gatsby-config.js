@@ -28,8 +28,6 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        spaceId: "8qif2bdz3ayd",
-        accessToken: "h7pQiB8IoZ1a0PE3t6KY2fMCmZ2cmetAUFomrQBVg8s",
         name: "Gatsby Starter Contentful Homepage",
         short_name: "Gatsby",
         start_url: "/",
